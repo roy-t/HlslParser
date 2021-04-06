@@ -1,8 +1,0 @@
-bin/
-out/
-node_modules/
-logs/
-sessions/*
-vscode-shadertools.zip
-*.vsix
-npm-debug.log
