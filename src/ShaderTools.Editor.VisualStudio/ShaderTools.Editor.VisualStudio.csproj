@@ -96,10 +96,6 @@
       <IncludeOutputGroupsInVSIX>BuiltProjectOutputGroup%3bBuiltProjectOutputGroupDependencies%3bGetCopyToOutputDirectoryItems%3bSatelliteDllsProjectOutputGroup%3b</IncludeOutputGroupsInVSIX>
       <IncludeOutputGroupsInVSIXLocalOnly>DebugSymbolsProjectOutputGroup%3b</IncludeOutputGroupsInVSIXLocalOnly>
     </ProjectReference>
-    <ProjectReference Include="..\ShaderTools.Utilities\ShaderTools.Utilities.csproj">
-      <Project>{485596dc-edc9-4c95-9807-229355f4a941}</Project>
-      <Name>ShaderTools.Utilities</Name>
-    </ProjectReference>
     <ProjectReference Include="..\ShaderTools.VisualStudio.LanguageServices.Hlsl\ShaderTools.VisualStudio.LanguageServices.Hlsl.csproj">
       <Project>{a963c25b-5e83-413a-9757-1259e7c11368}</Project>
       <Name>ShaderTools.VisualStudio.LanguageServices.Hlsl</Name>

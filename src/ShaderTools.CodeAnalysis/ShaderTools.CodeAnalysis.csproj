@@ -6,9 +6,6 @@
     <PackageReference Include="Microsoft.CodeAnalysis.Common" Version="3.1.0" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ShaderTools.Utilities\ShaderTools.Utilities.csproj" />
-  </ItemGroup>
-  <ItemGroup>
     <Compile Update="Properties\CodeAnalysisResources.Designer.cs">
       <DesignTime>True</DesignTime>
       <AutoGen>True</AutoGen>

@@ -13,7 +13,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ShaderTools.CodeAnalysis.Hlsl.EditorFeatures\ShaderTools.CodeAnalysis.Hlsl.EditorFeatures.csproj" />
-    <ProjectReference Include="..\ShaderTools.CodeAnalysis.Workspaces\ShaderTools.CodeAnalysis.Workspaces.csproj" />
     <ProjectReference Include="..\ShaderTools.Testing\ShaderTools.Testing.csproj" />
   </ItemGroup>
 

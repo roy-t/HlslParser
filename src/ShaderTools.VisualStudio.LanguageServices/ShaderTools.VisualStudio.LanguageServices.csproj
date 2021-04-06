@@ -144,10 +144,6 @@
       <Project>{2361a2c2-d048-4694-9000-25b4ea846cba}</Project>
       <Name>ShaderTools.CodeAnalysis</Name>
     </ProjectReference>
-    <ProjectReference Include="..\ShaderTools.Utilities\ShaderTools.Utilities.csproj">
-      <Project>{485596dc-edc9-4c95-9807-229355f4a941}</Project>
-      <Name>ShaderTools.Utilities</Name>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Microsoft.CSharp" />

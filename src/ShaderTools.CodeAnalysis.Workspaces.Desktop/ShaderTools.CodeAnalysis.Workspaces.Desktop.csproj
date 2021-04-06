@@ -6,6 +6,5 @@
   <ItemGroup>
     <Reference Include="System.ComponentModel.Composition" />
     <ProjectReference Include="..\ShaderTools.CodeAnalysis.Workspaces\ShaderTools.CodeAnalysis.Workspaces.csproj" />
-    <ProjectReference Include="..\ShaderTools.Utilities\ShaderTools.Utilities.csproj" />
   </ItemGroup>
 </Project>

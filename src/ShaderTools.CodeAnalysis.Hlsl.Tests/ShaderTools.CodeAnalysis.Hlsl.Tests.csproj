@@ -7,7 +7,7 @@
     <PackageReference Include="xunit" Version="2.2.0" />
     <PackageReference Include="xunit.runner.visualstudio" Version="2.2.0" />
     <ProjectReference Include="..\ShaderTools.CodeAnalysis.Hlsl\ShaderTools.CodeAnalysis.Hlsl.csproj" />
-    <ProjectReference Include="..\ShaderTools.Testing\ShaderTools.Testing.csproj" />
+    <ProjectReference Include="..\ShaderTools.CodeAnalysis\ShaderTools.CodeAnalysis.csproj" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="TestSuite\Shaders\**\*.*">

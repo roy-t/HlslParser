@@ -12,7 +12,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ShaderTools.CodeAnalysis.EditorFeatures\ShaderTools.CodeAnalysis.EditorFeatures.csproj" />
-    <ProjectReference Include="..\ShaderTools.CodeAnalysis.ShaderLab.Workspaces\ShaderTools.CodeAnalysis.ShaderLab.Workspaces.csproj" />
   </ItemGroup>
 
 </Project>

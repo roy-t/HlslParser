@@ -5,9 +5,7 @@
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Text.Logic" Version="$(SdkVersion)" />
-    <ProjectReference Include="..\ShaderTools.CodeAnalysis.Workspaces\ShaderTools.CodeAnalysis.Workspaces.csproj" />
     <ProjectReference Include="..\ShaderTools.CodeAnalysis\ShaderTools.CodeAnalysis.csproj" />
-    <ProjectReference Include="..\ShaderTools.Utilities\ShaderTools.Utilities.csproj" />
   </ItemGroup>
   <ItemGroup>
     <Compile Update="Properties\TextEditorResources.Designer.cs">
